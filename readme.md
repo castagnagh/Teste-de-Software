@@ -1,4 +1,4 @@
-# Testes Utilizando Selenium ID em um Projeto Exemplo API - FRONT END
+# Testes Utilizando Selenium IDE em um Projeto Exemplo API - FRONT END
 
 Bem-vindo. Este documento irá guiá-lo pelos passos necessários para configurar e utilizar a aplicação.
 
@@ -17,7 +17,7 @@ Bem-vindo. Este documento irá guiá-lo pelos passos necessários para configura
 Execute o comando abaixo no terminal para clonar o projeto:
 
 ``` bash
-git clone [link-do-repositorio]
+git clone https://github.com/castagnagh/Teste-de-Software.git
 ```
 ---
 
