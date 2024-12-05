@@ -37,15 +37,21 @@ npm install
 ```
 ``` bash
 node app.js
+```
 
 
 ### 6. Acessar no Navegador
 #### Acesse as URLs:
 
+#### Cadastro: 
 ``` bash
-Cadastro: http://localhost:3000/cadastro
-Listagem: http://localhost:3000/listar
+http://localhost:3000/cadastro
 ```
+#### Listagem:
+``` bash
+http://localhost:3000/listar
+```
+
 ### Pronto! Agora a aplicação está pronta para uso. 🎉
 
 ## 🧪 Parte 2: Configurando os Testes de Front-End com Selenium
@@ -80,7 +86,7 @@ Instruções no vídeo abaixo e também o passo a passo descrito:
 
 ## 4. Configurar o Projeto
 1. Clique em **Record a new test in a new project**.
-2. Insira a URL inicial da sua aplicação (exemplo: `http://localhost:8080`).
+2. Insira a URL inicial da sua aplicação (exemplo: `http://localhost:3000\listar`).
 3. Clique em **Start Recording**.
 
 
