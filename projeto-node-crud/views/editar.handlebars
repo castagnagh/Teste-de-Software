@@ -1,0 +1,13 @@
+<h1 class="text-center mb-4">Editar Registro</h1>
+<form action="/editar/{{registro.id}}" method="POST" class="needs-validation" novalidate>
+    <div class="mb-3">
+        <label for="nome" class="form-label">Nome</label>
+        <input type="text" name="nome" id="nome" class="form-control" value="{{registro.nome}}" required>
+    </div>
+    <div class="mb-3">
+        <label for="endereco" class="form-label">Endereço</label>
+        <input type="text" name="endereco" id="endereco" class="form-control" value="{{registro.endereco}}" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Salvar</button>
+    <a href="/listar" class="btn btn-secondary">Cancelar</a>
+</form>
