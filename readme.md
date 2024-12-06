@@ -60,7 +60,7 @@ http://localhost:3000/listar
 ### Montar os Testes de Front-End
 Instruções no vídeo abaixo e também o passo a passo descrito:
 
-- **[Link para o Vídeo Tutorial](#)**
+- **[Link para o Vídeo Tutorial](https://www.youtube.com/watch?v=50LVNjBkop4)**
 
 
 
